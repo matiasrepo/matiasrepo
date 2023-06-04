@@ -1,5 +1,6 @@
 # 🧉About me:
-Actually grinding for a Full stack web developer. Also learning python for programming basics.
+Actually grinding for a Full stack web developer. Also learning python in the way.
+Coffee enthusiast ☕
 
 
 ## 🌐 Social:
