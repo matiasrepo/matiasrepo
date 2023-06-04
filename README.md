@@ -1,5 +1,5 @@
 # 🧉Acerca de mí:
-Actualmente estoy estudiando para desarrollarme como FULL STACK.<br>Tengo conocimientos en MySQL, SAP BASIS y algunos básicos de .NET.<br>Vengo del ámbito del Hardware!
+Actually grinding for a Full stack web developer. Also learning python for programming basics
 
 
 ## 🌐 Redes:
